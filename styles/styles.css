@@ -16,3 +16,8 @@ body {
   font-size: 4rem;
   text-align: center;
 }
+
+.intro {
+  background-color: burlywood;
+  margin: 16px;
+}
